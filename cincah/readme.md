@@ -29,34 +29,30 @@
 
   ```mermaid
 gantt
-    title Cafe Satisfactory Timeline
+    title Netflix Recommendation System
     dateFormat  YYYY-MM-DD
     axisFormat %W
   
-    section Data Collections
-    Data Searching   :active, 2023-04-01 , 5d
+    section Data Collection and Preprocessing
+    Data Searching   :active, 2023-04-01 , 7d
+    Data Cleaning    :2023-04-08 , 7d
+    EDA              :2023-04-15 , 14d
+    
   
-    section Data Cleaning and Preprocessing
-    Data Cleaning            :2023-04-6  , 7d
-    EDA                      :2023-04-10 , 10d
-    Finalizing               :crit, 2023-04-20 , 7d
-  
-    section Machine Learning Algorithm
-    Preparing Model       :2023-04-27 , 7d
-    Model Testing         :2023-05-04 , 7d
-  
-    section Data Visualization
-    Simple data chart            :2023-05-11 , 8d
-    ML visualization             :2023-05-16 , 9d
+    section Data Modeling
+    Data analyzing           :2023-04-29 , 7d
+    Preparing data model     :2023-05-06 , 7d
   
     section User Interface Design
-    Designing User interface  :2023-05-25 , 11d
-    Features add-ons          :2023-06-04 , 8d
-    Modul insert              :2023-06-11 , 6d
-    Finalizing                :crit, 2023-06-17 , 5d
+    Identify system needs     :2023-05-13 , 3d
+    Develop user interface    :2023-05-16 , 18d
   
-    section Testing & project launch
-    Live Testing      :crit, 2023-06-23 , 7d
-    Fixing flaws      :2023-06-30 , 7d
+    section Deployment & Testing
+    System testing    :2023-06-03 , 13d
+    Refine design     :2023-06-03 , 13d
+    System launching  :2023-06-16 , 1d
+    
+    section Maintenance
+    System monitoring & optimization    :2023-06-17 , 7d
   
   ```
