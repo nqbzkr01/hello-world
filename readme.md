@@ -17,14 +17,14 @@
 <div id="profileView" align="center">
    <img src="https://komarev.com/ghpvc/?username=qaisarrra&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hey there, I'm Qaisara
+  Hey there, I'm Naquib
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <h4 align="center">Committed to life long learning</h4>
 </div>
 
-#### :woman_technologist: About Me
-- Currently exploring **Laravel Framework, MongoDB, Django & .net**
+#### 👨: About Me
+- Currently exploring **Python, Anaconda, and Alteryx**
 
 
 ---
