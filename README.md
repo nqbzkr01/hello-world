@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Naquib</h1>
+<h1 align="center">Hi 👋, I'm Naquib
 <img src="https://media.giphy.com/media/xUPGcigl4eOfc6hA5y/giphy.gif" alt="GIF" width="350" height="270">
+</h1>
 <h3 align="center">A passionate data engineering student from Universiti Teknologi Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nqbzkr01&label=Profile%20views&color=0e75b6&style=flat" alt="nqbzkr01" /> </p>
